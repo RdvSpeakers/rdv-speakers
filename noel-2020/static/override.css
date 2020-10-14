@@ -1,0 +1,76 @@
+:root {
+    --toolbar-height: 5rem;
+    --jumbo-overlay-opacity: 0.8;
+}
+
+body > header {
+    background-color: #600000;
+}
+
+body > header nav,
+body > header nav .languages a.lang:before  {
+    color: #f0f0f0;
+}
+body > header nav li.active {
+    color: white;
+}
+
+body > header .logo img {
+    max-width: 350px;
+}
+
+body > main > section.primary {
+    background-color: #4d4d4d;
+}
+
+.jumbo .jumbo-cover:after {
+    background-color: black;
+}
+
+.jumbo img.jumbo-logo {
+    width: min(800px, 75vw);
+}
+
+.jumbo #jumbo-overlay {
+    opacity: 0.6 !important;
+}
+
+.hero .description {
+    background-color: #006000;
+    color: white;
+}
+
+body > footer {
+    background-color: #4d4d4d;
+    color: #cccccc;
+}
+
+.footer-footer > ul {
+    display: block;
+}
+
+.footer-footer > ul > li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.footer-footer a {
+    color: white;
+}
+
+:root {
+    --primary: #006000;
+}
+
+header {
+    --primary: #600000;
+}
+
+.hero h1 {
+    color:  #006000;
+    font-weight: bold;
+}
+
+body>header nav .languages a.lang {
+    height: 4em;
+}

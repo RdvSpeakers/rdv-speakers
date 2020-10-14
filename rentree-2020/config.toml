@@ -1,0 +1,83 @@
+baseURL = "/rentree-2020/"
+languageCode = "fr-fr"
+title = "La Rentrée des Speakers 2020"
+theme = "devfest-theme-hugo"
+
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-XXXXXXXX-X"
+
+
+
+[params]
+    title = "La Rentrée des Speakers 2020"
+    date = "2020-02-28"
+    description = "*La Rentrée des Speakers*, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles. Taking into account the health situation, the 2020 edition of *La Rentrée des Speakers* will be online..."
+    images = ["images/social-share.jpg"]
+    email = "rentreespeakers@gmail.com"
+    keywords = "event, conference, speakers, programming, developers"
+    copyright = "We ❤️️ speakers"
+    subscriptionUrl = ""
+    sponsorshipUrl=""
+    appleTouchIcon = "apple-touch-icon.png"
+    favicon32 = "favicon-32x32.png"
+    favicon16 = "favicon-16x16.png"
+    manifest = "manifest.json"
+    safariPinnedTab = "safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+    env="production"
+
+[params.days]
+    1 = "Monday, September 7th"
+    2 = "Tuesday, September 8th"
+    3 = "Wednesday, September 9th"
+
+[params.partnerCategories]
+    platinium = "Sponsors"
+    gold = "Gold"
+    silver = "Silver"
+    startup = "Startup"
+    soutien = "Partners"
+    communautes = "Community"
+
+[params.logos]
+    jumbo = "images/logos/logo_color_text.png"
+    header = "images/logos/logo_color_text.png"
+    footer = "images/logos/logo_gray_text.png"
+
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "La Rentrée des Speakers, est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles. Situation sanitaire oblige, l'édition 2020 de La Rentrée des Speakers 2020 se fera en ligne."
+
+[languages.fr.params.partnerCategories]
+        platinium = "Sponsors"
+        gold = "Gold"
+        silver = "Silver"
+        startup = "Startup"
+        soutien = "Partners"
+        communautes = "Community"
+
+
+[languages.fr.params.days]
+    1 = "Lundi, 7 Septembre"
+    2 = "Mardi, 8 Septembre"
+    3 = "Mercredi, 9 Septembre"
+
+[taxonomies]
+  tag = "tags"
+
+#...    
+
+

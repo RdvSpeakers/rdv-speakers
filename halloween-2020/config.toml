@@ -1,0 +1,96 @@
+baseURL = "/halloween-2020/"
+languageCode = "fr-fr"
+title = "Le Halloween des Speakers 2020"
+theme = "rdvspeakers-theme-hugo"
+
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-XXXXXXXX-X"
+
+
+
+[params]
+    title = "Le Halloween des Speakers 2020"
+    date = "2020-02-28"
+    description = "*Le Halloween des Speakers* is a technical conference for developers, organized by *Les Rendez-vous des Speakers* association. Taking into account the health situation, the 2020 edition of *Le Halloween des Speakers* will be online..."
+    images = ["images/social-share.jpg"]
+    email = "rentreespeakers@gmail.com"
+    keywords = "event, conference, speakers, programming, developers"
+    copyright = "We ❤️️ speakers"
+    subscriptionUrl = ""
+    sponsorshipUrl=""
+    appleTouchIcon = "apple-touch-icon.png"
+    favicon48 = "favicon-48x48.png"
+    favicon32 = "favicon-32x32.png"
+    favicon16 = "favicon-16x16.png"
+    manifest = "manifest.json"
+    safariPinnedTab = "safari-pinned-tab.svg"
+    themeColor = "#4d4d4d"
+    env="production"
+
+[params.days]
+    1 = "Monday, October 26th"
+    2 = "Tuesday, October 27th"
+    3 = "Wednesday, October 28th"
+    4 = "Thursday, October 29th"
+    5 = "Friday, October 30th"
+
+[params.partnerCategories]
+    platinium = "Sponsors"
+    gold = "Gold"
+    silver = "Silver"
+    startup = "Startup"
+    support = "Partners"
+    communautes = "Community"
+
+[params.logos]
+    jumbo = "images/logos/logo_color_text.png"
+    header = "images/logos/logo_color_text.png"
+    footer = "images/logos/logo_gray_text.png"
+
+
+[params.footer]
+
+    credits = [
+        "Theme based on <a href='https://github.com/GDGToulouse/'>GDG Toulouse</a>'s <a href='https://github.com/GDGToulouse/devfest-theme-hugo'>DevFest Theme Hugo</a>",
+        "Background vector created by <a href='https://www.freepik.com/vectors/background'>freepik - www.freepik.com</a>",
+        "Logos and graphic identity by <a href='https://twitter.com/lostinbrittany'>Horacio Gonzalez</a>",
+    ]
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "*Le Halloween des Speakers*, est une conférence technique organisée par l'association *Les Rendez-vous des Speakers* et destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles. Situation sanitaire oblige, l'édition 2020 de *Le Halloween des Speakers* se fera en ligne."
+
+[languages.fr.params.partnerCategories]
+        platinium = "Sponsors"
+        gold = "Gold"
+        silver = "Silver"
+        startup = "Startup"
+        support = "Soutien"
+        communautes = "Community"
+
+
+[languages.fr.params.days]
+    1 = "Lundi, 26 Octrobre"
+    2 = "Mardi, 27 Octrobre"
+    3 = "Mercredi, 28 Octrobre"
+    4 = "Jeudi, 29 Octrobre"
+    5 = "Vendredi, 30 Octrobre"
+
+[taxonomies]
+  tag = "tags"
+
+#...    
+
+

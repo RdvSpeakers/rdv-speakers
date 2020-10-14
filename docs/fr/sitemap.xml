@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/code-of-conduct/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/code-of-conduct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/code-of-conduct/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/partners/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/team/"
+                />
+  </url>
+  
+</urlset>

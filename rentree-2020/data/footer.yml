@@ -1,0 +1,16 @@
+share:
+  - name: facebook
+    url: https://rentreespeakers.fr/
+  - name: twitter
+    url: https://rentreespeakers.fr/
+
+follow:
+  - name: twitter
+    url: https://twitter.com/RentreeSpeakers
+
+content:
+  - title: footer_about
+    links:
+      - nameKey: footer_coc
+        url: /code-of-conduct/
+        newTab: false

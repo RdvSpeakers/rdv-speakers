@@ -1,0 +1,6 @@
+[submodule "rdv-speakers/themes/rdvspeakers-theme-hugo"]
+	path = rdv-speakers/themes/rdvspeakers-theme-hugo
+	url = git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git
+[submodule "noel-2020/themes/rdvspeakers-theme-hugo"]
+	path = noel-2020/themes/rdvspeakers-theme-hugo
+	url = git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git
