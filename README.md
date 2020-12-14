@@ -1,5 +1,10 @@
-# Le Halloween Des Speakers 2020
+# Les Rendez-vous des Speakers
 
-![Halloween des Speakers 2020](/static/images/social-share.jpg)
+ 
 
-Site web pour Le Halloween des Speakers 2020
+Site web pour Les Rendez-vous des Speakers.
+
+
+## Prochain événement
+
+![Le Noël des Speakers 2020](/noel-2020/static/images/social-share.jpg)
