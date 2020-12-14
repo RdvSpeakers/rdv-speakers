@@ -31,3 +31,13 @@ menu:
 *Le Noël des Speakers*, est une conférence technique en ligne, organisée par l'association *Les Rendez-vous des Speakers* et destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.
 
 {{% /home-info %}}
+
+<!-- ... -->
+{{% home-speakers %}}
+## Des lutins joueurs ...
+
+{{< button-link label="Liste complète"
+                url="./speakers"
+                icon="right" >}}
+
+{{% /home-speakers %}}
