@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners on La Rentrée des Speakers 2020</title>
-    <link>/rentree-2020/partners/</link>
+    <link>https://rdv-speakers.fr/rentree-2020/partners/</link>
     <description>Recent content in Partners on La Rentrée des Speakers 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/rentree-2020/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rdv-speakers.fr/rentree-2020/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bots.garden</title>
-      <link>/rentree-2020/partners/platinium/bots-garden/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/platinium/bots-garden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/platinium/bots-garden/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/platinium/bots-garden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elastic</title>
-      <link>/rentree-2020/partners/soutien/elastic/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/soutien/elastic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/soutien/elastic/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/soutien/elastic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FinistDevs</title>
-      <link>/rentree-2020/partners/communautes/finistdevs/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/communautes/finistdevs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/communautes/finistdevs/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/communautes/finistdevs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GDG Cloud Lyon</title>
-      <link>/rentree-2020/partners/communautes/gdg-cloud-lyon/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/communautes/gdg-cloud-lyon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/communautes/gdg-cloud-lyon/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/communautes/gdg-cloud-lyon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Montpellier Tech Hub</title>
-      <link>/rentree-2020/partners/communautes/montpellier-tech-hub/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/communautes/montpellier-tech-hub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/communautes/montpellier-tech-hub/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/communautes/montpellier-tech-hub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVHcloud</title>
-      <link>/rentree-2020/partners/soutien/ovhcloud/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/soutien/ovhcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/soutien/ovhcloud/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/soutien/ovhcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RedHat</title>
-      <link>/rentree-2020/partners/platinium/redhat/</link>
+      <link>https://rdv-speakers.fr/rentree-2020/partners/platinium/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/rentree-2020/partners/platinium/redhat/</guid>
+      <guid>https://rdv-speakers.fr/rentree-2020/partners/platinium/redhat/</guid>
       <description></description>
     </item>
     

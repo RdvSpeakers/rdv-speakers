@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://rdv-speakers.fr/"
 languageCode = "fr-fr"
 title = "Les Rendez-vous des Speakers"
 theme = "rdvspeakers-theme-hugo"

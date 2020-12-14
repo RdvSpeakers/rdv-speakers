@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners on Les Rendez-vous des Speakers</title>
-    <link>/partners/</link>
+    <link>https://rdv-speakers.fr/partners/</link>
     <description>Recent content in Partners on Les Rendez-vous des Speakers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rdv-speakers.fr/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bots.garden</title>
-      <link>/partners/support/bots-garden/</link>
+      <link>https://rdv-speakers.fr/partners/support/bots-garden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/support/bots-garden/</guid>
+      <guid>https://rdv-speakers.fr/partners/support/bots-garden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elastic</title>
-      <link>/partners/support/elastic/</link>
+      <link>https://rdv-speakers.fr/partners/support/elastic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/support/elastic/</guid>
+      <guid>https://rdv-speakers.fr/partners/support/elastic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FinistDevs</title>
-      <link>/partners/communautes/finistdevs/</link>
+      <link>https://rdv-speakers.fr/partners/communautes/finistdevs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/communautes/finistdevs/</guid>
+      <guid>https://rdv-speakers.fr/partners/communautes/finistdevs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GDG Cloud Lyon</title>
-      <link>/partners/communautes/gdg-cloud-lyon/</link>
+      <link>https://rdv-speakers.fr/partners/communautes/gdg-cloud-lyon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/communautes/gdg-cloud-lyon/</guid>
+      <guid>https://rdv-speakers.fr/partners/communautes/gdg-cloud-lyon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Montpellier Tech Hub</title>
-      <link>/partners/communautes/montpellier-tech-hub/</link>
+      <link>https://rdv-speakers.fr/partners/communautes/montpellier-tech-hub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/communautes/montpellier-tech-hub/</guid>
+      <guid>https://rdv-speakers.fr/partners/communautes/montpellier-tech-hub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVHcloud</title>
-      <link>/partners/support/ovhcloud/</link>
+      <link>https://rdv-speakers.fr/partners/support/ovhcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/support/ovhcloud/</guid>
+      <guid>https://rdv-speakers.fr/partners/support/ovhcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RedHat</title>
-      <link>/partners/support/redhat/</link>
+      <link>https://rdv-speakers.fr/partners/support/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partners/support/redhat/</guid>
+      <guid>https://rdv-speakers.fr/partners/support/redhat/</guid>
       <description></description>
     </item>
     

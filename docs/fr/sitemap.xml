@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/</loc>
+    <loc>https://rdv-speakers.fr/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://rdv-speakers.fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://rdv-speakers.fr/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/</loc>
+    <loc>https://rdv-speakers.fr/fr/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="https://rdv-speakers.fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/"
+                href="https://rdv-speakers.fr/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>/fr/code-of-conduct/</loc>
+    <loc>https://rdv-speakers.fr/fr/code-of-conduct/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/code-of-conduct/"
+                href="https://rdv-speakers.fr/code-of-conduct/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/code-of-conduct/"
+                href="https://rdv-speakers.fr/fr/code-of-conduct/"
                 />
   </url>
   
   <url>
-    <loc>/fr/partners/</loc>
+    <loc>https://rdv-speakers.fr/fr/partners/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/partners/"
+                href="https://rdv-speakers.fr/partners/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/partners/"
+                href="https://rdv-speakers.fr/fr/partners/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/</loc>
+    <loc>https://rdv-speakers.fr/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://rdv-speakers.fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://rdv-speakers.fr/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>/fr/team/</loc>
+    <loc>https://rdv-speakers.fr/fr/team/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/team/"
+                href="https://rdv-speakers.fr/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/team/"
+                href="https://rdv-speakers.fr/fr/team/"
                 />
   </url>
   

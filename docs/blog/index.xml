@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Les Rendez-vous des Speakers</title>
-    <link>/blog/</link>
+    <link>https://rdv-speakers.fr/blog/</link>
     <description>Recent content on Les Rendez-vous des Speakers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rdv-speakers.fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

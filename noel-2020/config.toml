@@ -1,4 +1,4 @@
-baseURL = "/noel-2020/"
+baseURL = "https://rdv-speakers.fr/noel-2020/"
 languageCode = "fr-fr"
 title = "Les Noël des Speakers"
 theme = "rdvspeakers-theme-hugo"
