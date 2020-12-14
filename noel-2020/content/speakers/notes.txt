@@ -2,4 +2,42 @@
 - Olivier Poncet ✅
 - Sylvain Wallez ✅
 - Sébastien Prunier ✅
+- Thierry Chantier ✅
+- Frédéric Cabestre ✅
+- Jeff Maury
+
+
+
+🖐️ Abstract Frédéric Cabestre:
+
+Titre
+=====
+
+Types Classes, Traits, Implicits... Bigre !
+
+Abstract
+========
+
+Brèves de comptoir:                                                                                                                
+ - « Les Type Classes c'est un peut comme des interfaces de Java quoi... »                                                         
+ - « En Rust t'as pas de classes, mais les Traits, tu vois, c'est presque pareil. »                                                
+ - « Les Implicits de Scala... pfiou... C'est pénible et j'y comprends rien. »                                                     
+                                                                                                                                   
+Alors oui... Mais non.                                                                                                             
+                                                                                                                                   
+Je vous propose de reprendre à partir des bases : de l'apparition des Type Classes en Haskell et du problème de polymorphisme 
+qu'elles permettent de traiter. Nous tenterons une comparaison avec le concept objet de F-Bounded Polymorphism (Houlà, c'est quoi 
+cette bestiole !). Puis nous verrons comment elles peuvent se mettre en œuvre à l'aide de Scala et des si redoutés Implicits : 
+les « Type classes tu pauvre » comme l'a dit Martin Odersky un jour. Et pour finir, nous essayerons de déterminer dans quelle 
+mesure les Traits de Rust y sont assimilables... Ou pas.
+
+
+
+🖐️ Abstract Jeff Maury
+
+Titre (français): Voyageons dans les entrailles de GraalVM native image
+
+GraalVM native image est un outil “magique” qui permet de générer un binaire natif à partir de votre code Java. Cependant, la magie a ses limites et il serait intéressant de comprendre comment votre code Java est transformé en code natif.
+Je vous propose donc, en suivant la méthode de reverse engineering, de regarder sur un certain nombre d’exemples (en partant du simple hello world et en allant vers du code plus représentatif), de découvrir GraalVM native image de l’intérieur et de maîtriser un peu mieux ce processus.
+
 
