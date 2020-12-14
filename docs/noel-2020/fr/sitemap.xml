@@ -45,6 +45,20 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/noel-2020/fr/speakers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/noel-2020/speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/noel-2020/fr/speakers/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/noel-2020/fr/partners/</loc>
     <xhtml:link
                 rel="alternate"

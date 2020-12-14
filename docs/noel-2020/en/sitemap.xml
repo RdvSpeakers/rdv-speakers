@@ -18,6 +18,50 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/benjamin_fichel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/frederic_cabestre/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/jeff_maury/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/julien_lengrand/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/laurent_doguin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/luc_sorel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/olivier_poncet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/sebastien_prunier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/sylvain_revereault/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/sylvain_wallez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/thierry_chantier/</loc>
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/noel-2020/team/aurelie_vache/</loc>
   </url>
   
@@ -109,6 +153,20 @@
   
   <url>
     <loc>https://rdv-speakers.fr/noel-2020/partners/support/redhat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/speakers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/noel-2020/fr/speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/noel-2020/speakers/"
+                />
   </url>
   
   <url>

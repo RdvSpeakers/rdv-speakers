@@ -1,0 +1,59 @@
+🚧 wip
+- Olivier Poncet ✅
+- Sylvain Wallez ✅
+- Sébastien Prunier ✅
+- Thierry Chantier ✅
+- Frédéric Cabestre ✅
+- Jeff Maury ✅
+- Julien Lengrand ✅
+- Sylvain Révérault ✅
+- Luc Sorel ✅
+- Benjamin Fichel 🚧
+- Laurent Doguin ✅
+
+🖐️ Abstract Frédéric Cabestre:
+
+Titre
+=====
+
+Types Classes, Traits, Implicits... Bigre !
+
+Abstract
+========
+
+Brèves de comptoir:                                                                                                                
+ - « Les Type Classes c'est un peut comme des interfaces de Java quoi... »                                                         
+ - « En Rust t'as pas de classes, mais les Traits, tu vois, c'est presque pareil. »                                                
+ - « Les Implicits de Scala... pfiou... C'est pénible et j'y comprends rien. »                                                     
+                                                                                                                                   
+Alors oui... Mais non.                                                                                                             
+                                                                                                                                   
+Je vous propose de reprendre à partir des bases : de l'apparition des Type Classes en Haskell et du problème de polymorphisme 
+qu'elles permettent de traiter. Nous tenterons une comparaison avec le concept objet de F-Bounded Polymorphism (Houlà, c'est quoi 
+cette bestiole !). Puis nous verrons comment elles peuvent se mettre en œuvre à l'aide de Scala et des si redoutés Implicits : 
+les « Type classes tu pauvre » comme l'a dit Martin Odersky un jour. Et pour finir, nous essayerons de déterminer dans quelle 
+mesure les Traits de Rust y sont assimilables... Ou pas.
+
+
+
+🖐️ Abstract Jeff Maury
+
+Titre (français): Voyageons dans les entrailles de GraalVM native image
+
+GraalVM native image est un outil “magique” qui permet de générer un binaire natif à partir de votre code Java. Cependant, la magie a ses limites et il serait intéressant de comprendre comment votre code Java est transformé en code natif.
+Je vous propose donc, en suivant la méthode de reverse engineering, de regarder sur un certain nombre d’exemples (en partant du simple hello world et en allant vers du code plus représentatif), de découvrir GraalVM native image de l’intérieur et de maîtriser un peu mieux ce processus.
+
+
+🖐️ Abstract Julien Lengrand:
+
+Monitoring automatisé de cave à vin : Tales of Over Engineering
+
+
+Je vis aux Pays-Bas, et pour survivre dans cette contrée lointaine j'importe du vin en large quantité plusieurs fois par an. Ayant acheté une maison sans cave, j'ai dû stocker mon vin sous le toit : clairement contre-intuitif. Ce talk est un aperçu du système de monitoring que j'ai mis en place pour vérifier que mon vin est en lieu sûr.
+
+Mes spécifications pour le système sont simples : Apprendre une nouvelle techno à chaque étape, stocker les données dans le cloud, introduire un maximum de dépendances (fun!) , tout en gardant un minimum de maintenance.
+
+Nous naviguerons donc à travers les différentes couches : Un driver en **C** et **JNI**, une cross-compilation pour **raspberry** sur **GitHub Actions**, un **microservice Helidon** écrit en **Java** qui permet un changement dynamique des configurations et qui envoie les données vers un serveur **InfluxDb** couplé à des fonctions **Azure** pour les alertes. Nous ferons même un crochet par **FaunaDb** qui m'a servi de backup.
+Pas d'inquiétude cependant, pas besoin de connaître les technos mentionnées pour comprendre le talk!
+
+Nous verrons ensemble si le système remplit son rôle : avoir un diagramme complètement plat, et probablement le moins FUN du monde :). 
