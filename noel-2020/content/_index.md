@@ -27,3 +27,11 @@ menu:
 {{% /home-info %}}
 
 <!-- ... -->
+{{% home-speakers %}}
+## Des lutins joueurs ...
+
+{{< button-link label="Liste complète"
+                url="./speakers"
+                icon="right" >}}
+
+{{% /home-speakers %}}
