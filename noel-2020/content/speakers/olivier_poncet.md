@@ -4,7 +4,7 @@ name: Olivier Poncet
 feature: true
 company: EMAXILDE
 city: Paris, France
-photoURL: ./images/speakers/olivier_poncet.jpg
+photoURL: ./images/speakers/olivier_poncet.png
 socials:
   - icon: twitter
     link: https://twitter.com/ponceto91 
