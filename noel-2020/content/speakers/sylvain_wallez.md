@@ -3,7 +3,7 @@ key: sylvain_wallez
 name: Sylvain Wallez
 feature: true
 company: Elastic
-city: Paris, France
+city: Toulouse, France
 photoURL: ./images/speakers/sylvain_wallez.png
 socials:
   - icon: twitter
