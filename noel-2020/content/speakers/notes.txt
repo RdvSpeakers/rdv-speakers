@@ -4,7 +4,8 @@
 - Sébastien Prunier ✅
 - Thierry Chantier ✅
 - Frédéric Cabestre ✅
-- Jeff Maury
+- Jeff Maury ✅
+- Julien Lengrand ✅
 
 
 
@@ -41,3 +42,16 @@ GraalVM native image est un outil “magique” qui permet de générer un binai
 Je vous propose donc, en suivant la méthode de reverse engineering, de regarder sur un certain nombre d’exemples (en partant du simple hello world et en allant vers du code plus représentatif), de découvrir GraalVM native image de l’intérieur et de maîtriser un peu mieux ce processus.
 
 
+🖐️ Abstract Julien Lengrand:
+
+Monitoring automatisé de cave à vin : Tales of Over Engineering
+
+
+Je vis aux Pays-Bas, et pour survivre dans cette contrée lointaine j'importe du vin en large quantité plusieurs fois par an. Ayant acheté une maison sans cave, j'ai dû stocker mon vin sous le toit : clairement contre-intuitif. Ce talk est un aperçu du système de monitoring que j'ai mis en place pour vérifier que mon vin est en lieu sûr.
+
+Mes spécifications pour le système sont simples : Apprendre une nouvelle techno à chaque étape, stocker les données dans le cloud, introduire un maximum de dépendances (fun!) , tout en gardant un minimum de maintenance.
+
+Nous naviguerons donc à travers les différentes couches : Un driver en **C** et **JNI**, une cross-compilation pour **raspberry** sur **GitHub Actions**, un **microservice Helidon** écrit en **Java** qui permet un changement dynamique des configurations et qui envoie les données vers un serveur **InfluxDb** couplé à des fonctions **Azure** pour les alertes. Nous ferons même un crochet par **FaunaDb** qui m'a servi de backup.
+Pas d'inquiétude cependant, pas besoin de connaître les technos mentionnées pour comprendre le talk!
+
+Nous verrons ensemble si le système remplit son rôle : avoir un diagramme complètement plat, et probablement le moins FUN du monde :). 
