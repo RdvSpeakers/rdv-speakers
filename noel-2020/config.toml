@@ -41,7 +41,6 @@ googleAnalytics = "UA-XXXXXXXX-X"
         "Logos and graphic identity by <a href='https://twitter.com/lostinbrittany'>Horacio Gonzalez</a>",
     ]
 
-
 [params.partnerCategories]
     platinium = "Sponsors"
     gold = "Gold"
@@ -50,23 +49,17 @@ googleAnalytics = "UA-XXXXXXXX-X"
     support = "Partners"
     communautes = "Community"
 
-
 [languages]
 [languages.en]
-    weight = 1
+    weight = 2
     languageName = "gb"
 
 [languages.fr]
-    weight = 2
+    weight = 1
     languageName = "fr"
 
 [languages.fr.params]
     description = "*Les Rendez-vous des Speakers* est une série de conférences techniques, de rencontres, d'ateliers et autres événements pour les développeurs."
-
-[languages.fr.params.currentEvent] 
-    url="noel-2020/"
-    name="Le Noël des Speakers"  
-    message="Notre prochain événement sera :"
 
 [languages.fr.params.partnerCategories]
         platinium = "Sponsors"
