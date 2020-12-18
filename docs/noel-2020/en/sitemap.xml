@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rdv-speakers.fr/noel-2020/blog/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rdv-speakers.fr/noel-2020/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rdv-speakers.fr/noel-2020/blog/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rdv-speakers.fr/noel-2020/speakers/benjamin_fichel/</loc>
   </url>
   
@@ -63,6 +48,20 @@
   
   <url>
     <loc>https://rdv-speakers.fr/noel-2020/team/aurelie_vache/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/noel-2020/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/noel-2020/blog/"
+                />
   </url>
   
   <url>
@@ -122,6 +121,10 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/2.2_wine-cellar-monitoring_system/</loc>
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/noel-2020/partners/communautes/montpellier-tech-hub/</loc>
   </url>
   
@@ -156,6 +159,20 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/noel-2020/fr/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/noel-2020/sessions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/noel-2020/speakers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -171,6 +188,22 @@
   
   <url>
     <loc>https://rdv-speakers.fr/noel-2020/team/sebastien_blanc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/3.2_our_beginnings_in_computer_science/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/1.2_round_table_role_playing_games/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/2.1_round_table_green_it/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/2.3_round_table_alternative_drinks/</loc>
   </url>
   
   <url>
@@ -199,6 +232,14 @@
                 hreflang="en"
                 href="https://rdv-speakers.fr/noel-2020/team/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/1.1_type-classes_introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/noel-2020/sessions/3.1_graal_vm_native_image/</loc>
   </url>
   
 </urlset>
