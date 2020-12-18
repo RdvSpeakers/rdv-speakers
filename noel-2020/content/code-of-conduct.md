@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-
+Section: coc
 draft: false
 ---
 
