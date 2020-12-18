@@ -49,6 +49,12 @@ googleAnalytics = "UA-XXXXXXXX-X"
     support = "Partners"
     communautes = "Community"
 
+
+[params.days]
+    1 = "Monday, December 21st"
+    2 = "Tuesday, December 22nd"
+    3 = "Wednesday, December 23rd"
+
 [languages]
 [languages.en]
     weight = 2
@@ -71,6 +77,11 @@ googleAnalytics = "UA-XXXXXXXX-X"
 
 [taxonomies]
   tag = "tags"
+
+[languages.fr.params.days]
+    1 = "Lundi, 21 Décembre"
+    2 = "Mardi, 22 Décembre"
+    3 = "Mercredi, 23 Décembre"
 
 #...    
 
