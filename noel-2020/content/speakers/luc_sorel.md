@@ -2,8 +2,8 @@
 key: luc_sorel
 name: Luc Sorel-Giffo
 feature: true
-company: Serli
-city: Niort, France
+company: Zenika
+city: Rennes, France
 photoURL: ./images/speakers/luc_sorel.png
 socials:
   - icon: twitter
