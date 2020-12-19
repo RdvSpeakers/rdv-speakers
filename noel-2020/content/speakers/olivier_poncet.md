@@ -2,7 +2,7 @@
 key: olivier_poncet
 name: Olivier Poncet
 feature: true
-company: EMAXILDE
+company: Suricats consulting
 city: Paris, France
 photoURL: ./images/speakers/olivier_poncet.png
 socials:
