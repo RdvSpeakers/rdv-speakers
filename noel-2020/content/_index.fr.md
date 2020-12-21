@@ -14,7 +14,8 @@ menu:
 
 
 ## 21-23 Décembre 2020
-### Online
+### Online [https://www.twitch.tv/rdvspeakers](https://www.twitch.tv/rdvspeakers)
+
 
 <!-- ... -->
 

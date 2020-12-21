@@ -10,7 +10,7 @@ menu:
 {{% jumbo img="./images/backgrounds/noel-2020.jpg" imgLabel="Le Noël des Speakers 2020" %}}
 
 ## December 21st-23rd, 2020
-### Online
+### Online [https://www.twitch.tv/rdvspeakers](https://www.twitch.tv/rdvspeakers)
 
 {{% /jumbo %}}
 
