@@ -1,6 +1,7 @@
 ---
 key: pierre_tibulle
 title: Pierre Tibulle
+name: Pierre Tibulle
 type: sketchnote
 subtitle: IKO-BOX
 company: IKO-BOX
