@@ -1,0 +1,85 @@
+baseURL = "https://rdv-speakers.fr/chandeleur-2021/"
+languageCode = "fr-fr"
+title = "La Chandeleur des Speakers"
+theme = "rdvspeakers-theme-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-XXXXXXXX-X"
+
+[params]
+    baseURL = "https://rdv-speakers.fr/chandeleur-2021/"
+    title = "La Chandeleur des Speakers"
+    description = "*La Chandeleur des Speakers* is a technical conference for developers, organized by *Les Rendez-vous des Speakers* association. Taking into account the health situation, the 2021 edition of *La Chandeleur des Speakers* will be online..."
+    images = ["images/social-share.jpg"]
+    email = "rentreespeakers@gmail.com"
+    keywords = "event, conference, speakers, programming, developers"
+    copyright = "We ❤️️ speakers"
+    subscriptionUrl = ""
+    sponsorshipUrl=""
+    appleTouchIcon = "apple-touch-icon.png"
+    favicon48 = "favicon-48x48.png"
+    favicon32 = "favicon-32x32.png"
+    favicon16 = "favicon-16x16.png"
+    manifest = "manifest.json"
+    safariPinnedTab = "safari-pinned-tab.svg"
+    themeColor = "#4d4d4d"
+    env="production"
+
+[params.logos]
+    jumbo = "images/logos/logo_color_text.png"
+    header = "images/logos/logo_color_text.png"
+    footer = "images/logos/logo_gray_text.png"
+
+
+
+[params.footer]
+
+    credits = [
+        "Theme based on <a href='https://github.com/GDGToulouse/'>GDG Toulouse</a>'s <a href='https://github.com/GDGToulouse/devfest-theme-hugo'>DevFest Theme Hugo</a>",
+        "Logos and graphic identity by <a href='https://twitter.com/lostinbrittany'>Horacio Gonzalez</a>",
+    ]
+
+[params.partnerCategories]
+    platinium = "Sponsors"
+    gold = "Gold"
+    silver = "Silver"
+    startup = "Startup"
+    support = "Partners"
+    communautes = "Community"
+
+
+[params.days]
+    1 = "Tuesday, February 2nd"
+
+[languages]
+[languages.en]
+    weight = 2
+    languageName = "gb"
+
+[languages.fr]
+    weight = 1
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "*Les Rendez-vous des Speakers* est une série de conférences techniques, de rencontres, d'ateliers et autres événements pour les développeurs."
+
+[languages.fr.params.partnerCategories]
+        platinium = "Sponsors"
+        gold = "Gold"
+        silver = "Silver"
+        startup = "Startup"
+        support = "Soutien"
+        communautes = "Community"
+
+[taxonomies]
+  tag = "tags"
+
+[languages.fr.params.days]
+    1 = "Mardi, 2 Février"
+
+#...    
+
+

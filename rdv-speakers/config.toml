@@ -33,7 +33,7 @@ googleAnalytics = "UA-XXXXXXXX-X"
     message="Our next event will be:"
 
 [params.logos]
-    jumbo = "images/logos/logo_noel.png"
+    jumbo = "images/logos/logo_chandeleur-2021.png"
     header = "images/logos/logo_color_text.png"
     footer = "images/logos/logo_gray_text.png"
 

@@ -10,6 +10,7 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-XXXXXXXX-X"
 
 [params]
+    baseURL = "https://rdv-speakers.fr/noel-2020/"
     title = "Le Noël des Speakers"
     description = "*Le Noël des Speakers* is a technical conference for developers, organized by *Les Rendez-vous des Speakers* association. Taking into account the health situation, the 2020 edition of *Le Noël des Speakers* will be online..."
     images = ["images/social-share.jpg"]

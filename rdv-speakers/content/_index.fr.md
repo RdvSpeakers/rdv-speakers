@@ -10,10 +10,10 @@ menu:
 
 <!-- ... -->
 
-{{% jumbo img="/images/backgrounds/noel-2020.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
+{{% jumbo img="/images/backgrounds/chandeleur-2021.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
 
 
-## 21-23 Décembre 2020
+## Mardi, 2 Février 2021
 
 <!-- ... -->
 

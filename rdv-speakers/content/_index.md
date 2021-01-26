@@ -7,9 +7,9 @@ menu:
     weight: -1
 
 ---
-{{% jumbo img="/images/backgrounds/noel-2020.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
+{{% jumbo img="/images/backgrounds/chandeleur-2021.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
 
-## [December 21st-23rd, 2020](/noel-2020)
+## [Tuesday February 2<sup>nd</sup>, 2021](/chandeleur-2021)
 {{% /jumbo %}}
 
 <!-- ... -->

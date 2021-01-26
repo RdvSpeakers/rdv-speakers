@@ -1,15 +1,25 @@
 :root {
     --toolbar-height: 5rem;
     --jumbo-overlay-opacity: 0.8;
+    --primary: #adf3e7;
+    --primary-txt: #eee;
+    --darker: #1f5d52;
+}
+
+.jumbo #jumbo-overlay {
+    --primary: #bc9260;
+}
+.jumbo .inner-wrapper .inner {
+    --primary-txt: white;
 }
 
 body > header {
-    background-color: #600000;
+    background-color: var(--darker);
 }
 
 body > header nav,
 body > header nav .languages a.lang:before  {
-    color: #f0f0f0;
+    color: var(--primary-txt);
 }
 body > header nav li.active {
     color: white;
@@ -36,7 +46,7 @@ body > main > section.primary {
 }
 
 .hero .description {
-    background-color: #006000;
+    background-color: var(--primary-txt);
     color: white;
 }
 
@@ -58,13 +68,6 @@ body > footer {
     color: white;
 }
 
-:root {
-    --primary: #006000;
-}
-
-header {
-    --primary: #600000;
-}
 
 .hero h1 {
     color:  #006000;
