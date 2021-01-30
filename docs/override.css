@@ -29,8 +29,10 @@ body > header .logo img {
     max-width: 350px;
 }
 
-body > main > section.primary {
-    background-color: #4d4d4d;
+
+@media (max-width: 71.24em) {}
+body > header nav {
+    background-color: var(--darker);
 }
 
 .jumbo .jumbo-cover:after {
