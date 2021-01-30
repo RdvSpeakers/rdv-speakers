@@ -1,6 +1,6 @@
 ---
 key:  marina_rouille
-name: Marina Rouille
+name: Marina Rouillé
 feature: true
 company: Anaya
 city: Paris, France
