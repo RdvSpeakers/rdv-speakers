@@ -10,7 +10,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="./logo_noel.png"
+   inkscape:export-filename="\\wsl$\Ubuntu\home\horacio\git\RdvSpeakers\rdvspeakers-site\chandeleur-2021\static\images\logos\logo_chandeleur.png"
    width="1024"
    height="205"
    viewBox="0 0 270.93333 54.239584"
@@ -123,9 +123,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="481.87221"
-     inkscape:cy="526.57302"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="520.53591"
+     inkscape:cy="1055.1646"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -143,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,14 +156,6 @@
      inkscape:label="Texte"
      id="layer2"
      inkscape:groupmode="layer">
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99687px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2851-9-5-0);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.138279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       id="text2849"
-       xml:space="preserve"
-       transform="matrix(4.5818445,0,0,5.2534408,-48.466223,-206.06978)"><tspan
-         x="21.921875"
-         y="46.992291"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99687px;font-family:'Kingthings Christmas 2';-inkscape-font-specification:'Kingthings Christmas 2, ';fill:#ffffff;fill-opacity:1;stroke:none">Le Noel des Speakers</tspan></tspan></text>
     <image
        width="49.136906"
        height="49.136906"
