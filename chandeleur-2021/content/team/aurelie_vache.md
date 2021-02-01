@@ -2,7 +2,6 @@
 key: aurelie_vache
 name: Aurélie Vache
 title: Aurélie Vache
-type: core
 company: Stack Labs
 subtitle: Stack Labs
 city: Toulouse, France
