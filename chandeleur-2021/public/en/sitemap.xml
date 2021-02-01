@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/chandeleur-2021/speakers/marina_rouille/</loc>
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/chandeleur-2021/speakers/maxime_pawlak/</loc>
   </url>
   
@@ -166,6 +170,14 @@
                 hreflang="en"
                 href="https://rdv-speakers.fr/chandeleur-2021/team/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/chandeleur-2021/sessions/1.2_tous_les_chemins_menent_au_code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rdv-speakers.fr/chandeleur-2021/sessions/1.1_une_heure_pour_apprendre_stencil/</loc>
   </url>
   
 </urlset>

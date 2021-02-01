@@ -27,6 +27,7 @@ menu:
 
 - [La Rentrée des Speakers](./rentree-2020/)
 - [Le Halloween des Speakers](./halloween-2020/)
+- [Le Noël des Speakers](./noel-2020/)
 
 {{% /home-info %}}
 
