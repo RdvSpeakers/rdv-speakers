@@ -8,10 +8,8 @@ subtitle: Stack Labs
 city: Toulouse, France
 photoURL: ./images/team/aurelie_vache.jpg
 socials:
-  - icon: twitter
-    link: https://twitter.com/aurelievache
-    name: aurelievache
-  - icon: github
-    link: https://github.com/scraly
-    name: scraly
+  - link: 'https://twitter.com/aurelievache'
+    name: Twitter
+  - link: 'https://github.com/scraly'
+    name: Github
 ---
