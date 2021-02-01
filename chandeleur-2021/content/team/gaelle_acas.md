@@ -2,7 +2,6 @@
 key: gaelle_acas
 title: Gaëlle Acas
 name: Gaëlle Acas
-type: core
 company: Talend
 subtitle: Talend
 city: Nantes, France
