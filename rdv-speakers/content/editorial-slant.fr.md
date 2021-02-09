@@ -14,7 +14,7 @@ La seconde raison est que nous souhaitons pouvoir expérimenter divers formats (
 
 Cela signifie que les choix éditoriaux (donc sourcing des speakers et choix des sujets) sont initialement faits par le comité éditorial.
 
-> 👋, si vous n'êtes pas en raisonnance avec ce mode de sélection, nous rappelons que cet événement est totalement gratuit et bénévole, donc rien ne vous oblige à nous suivre.
+> 👋, si vous n'êtes pas en résonance avec ce mode de sélection, nous rappelons que cet événement est totalement gratuit et bénévole, donc rien ne vous oblige à nous suivre.
 
 ## Proposer un sujet au Rendez-cous des speakers
 
