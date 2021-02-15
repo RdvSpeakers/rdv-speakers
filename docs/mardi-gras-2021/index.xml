@@ -29,11 +29,75 @@
     </item>
     
     <item>
-      <title>Aurélie Vache</title>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/speakers/pierre_tibulle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/speakers/pierre_tibulle/</guid>
+      <description>Dev mobile (Android/iOS/Hybride), CTO Ikobox, je gribouille des sketchnotes colorées et je participe à l&amp;rsquo;organisation du meetup Android Nantes (GDG).</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://rdv-speakers.fr/mardi-gras-2021/team/aurelie_vache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rdv-speakers.fr/mardi-gras-2021/team/aurelie_vache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/team/francois_teychene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/francois_teychene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/team/gaelle_acas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/gaelle_acas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/team/horacio_gonzalez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/horacio_gonzalez/</guid>
+      <description>Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a plus d’une vingtaine d’années. Passionné d’informatique, dans laquelle il est tombé depuis tout petit, il a découvert le développement web en 1997 et depuis il n’a pas arrêté de bosser autour.
+Après quelques années comme tech leader de la partie frontend de @warp10io chez Cityzen Data, Horacio a rejoint OVHcloud en janvier 2018 en tant que leader DevRel (Developer Relations).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/team/philippe_charriere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/philippe_charriere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/team/pierre_tibulle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/pierre_tibulle/</guid>
+      <description>Dev mobile (Android/iOS/Hybride), CTO Ikobox, je gribouille des sketchnotes colorées et je participe à l&amp;rsquo;organisation du meetup Android Nantes (GDG).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/team/sebastien_blanc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/sebastien_blanc/</guid>
       <description></description>
     </item>
     
@@ -61,7 +125,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.2_design_system/</guid>
-      <description>Mardi 16 février 2021 Retour sur la co-construction d’un design system en milieu hostile au sein d’une DSI Dinosauresque 🦕🦖. Ou comment mettre en place un design system a facilité le développement d’applications centrées utilisateurs.
+      <description>Mardi 16 février 2021 20h30 Retour sur la co-construction d’un design system en milieu hostile au sein d’une DSI Dinosauresque 🦕🦖. Ou comment mettre en place un design system a facilité le développement d’applications centrées utilisateurs.
 🖐️ Diffusion: https://www.twitch.tv/rdvspeakers</description>
     </item>
     
@@ -84,40 +148,12 @@
     </item>
     
     <item>
-      <title>François Teychene</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/team/francois_teychene/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/francois_teychene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaëlle Acas</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/team/gaelle_acas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/gaelle_acas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GDG Cloud Lyon</title>
       <link>https://rdv-speakers.fr/mardi-gras-2021/partners/communautes/gdg-cloud-lyon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rdv-speakers.fr/mardi-gras-2021/partners/communautes/gdg-cloud-lyon/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Horacio Gonzalez</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/team/horacio_gonzalez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/horacio_gonzalez/</guid>
-      <description>Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a plus d’une vingtaine d’années. Passionné d’informatique, dans laquelle il est tombé depuis tout petit, il a découvert le développement web en 1997 et depuis il n’a pas arrêté de bosser autour.
-Après quelques années comme tech leader de la partie frontend de @warp10io chez Cityzen Data, Horacio a rejoint OVHcloud en janvier 2018 en tant que leader DevRel (Developer Relations).</description>
     </item>
     
     <item>
@@ -150,38 +186,11 @@ Je vous présenterai cette pratique qui associe énormément de compétences art
     </item>
     
     <item>
-      <title>Philippe Charrière</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/team/philippe_charriere/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/philippe_charriere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre Tibulle</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/team/pierre_tibulle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/pierre_tibulle/</guid>
-      <description>Dev mobile (Android/iOS/Hybride), CTO Ikobox, je gribouille des sketchnotes colorées et je participe à l&amp;rsquo;organisation du meetup Android Nantes (GDG).</description>
-    </item>
-    
-    <item>
       <title>RedHat</title>
       <link>https://rdv-speakers.fr/mardi-gras-2021/partners/support/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rdv-speakers.fr/mardi-gras-2021/partners/support/redhat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sébastien Blanc</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/team/sebastien_blanc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/team/sebastien_blanc/</guid>
       <description></description>
     </item>
     
