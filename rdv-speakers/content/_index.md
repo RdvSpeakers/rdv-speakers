@@ -7,9 +7,9 @@ menu:
     weight: -1
 
 ---
-{{% jumbo img="/images/backgrounds/chandeleur-2021.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
+{{% jumbo img="/images/backgrounds/mardi-gras-2021.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
 
-## [Tuesday February 2<sup>nd</sup>, 2021](/chandeleur-2021)
+## [Tuesday February 16<sup>th</sup>, 2021](/mardi-gras-2021)
 {{% /jumbo %}}
 
 <!-- ... -->
@@ -28,6 +28,7 @@ menu:
 - [La Rentrée des Speakers](./rentree-2020/)
 - [Le Halloween des Speakers](./halloween-2020/)
 - [Le Noël des Speakers](./noel-2020/)
+- [La Chandeleur des Speakers](./chandeleur-2021/)
 
 {{% /home-info %}}
 

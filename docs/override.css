@@ -1,13 +1,13 @@
 :root {
     --toolbar-height: 5rem;
     --jumbo-overlay-opacity: 0.8;
-    --primary: #adf3e7;
-    --primary-txt: #eee;
+    --primary: #444444;
+    --primary-txt: #dddddd;
     --darker: #1f5d52;
 }
 
 .jumbo #jumbo-overlay {
-    --primary: #bc9260;
+    --primary: #bc6360;
 }
 .jumbo .inner-wrapper .inner {
     --primary-txt: white;

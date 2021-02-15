@@ -28,12 +28,12 @@ googleAnalytics = "UA-XXXXXXXX-X"
     env="production"
 
 [params.currentEvent]
-    url="chandeleur-2021/"
-    name="La Chandeleur des Speakers"    
+    url="mardi-gras-2021/"
+    name="Le Mardi-gras des Speakers"    
     message="Our next event will be:"
 
 [params.logos]
-    jumbo = "images/logos/logo_chandeleur-2021.png"
+    jumbo = "images/logos/logo_mardi-gras-2021.png"
     header = "images/logos/logo_color_text.png"
     footer = "images/logos/logo_gray_text.png"
 
@@ -69,8 +69,8 @@ googleAnalytics = "UA-XXXXXXXX-X"
     description = "*Les Rendez-vous des Speakers* est une série de conférences techniques, de rencontres, d'ateliers et autres événements pour les développeurs."
 
 [languages.fr.params.currentEvent] 
-    url="chandeleur-2021/"
-    name="La Chandeleur des Speakers"  
+    url="mardi-gras-2021/"
+    name="Le Mardi-gras des Speakers"  
     message="Notre prochain événement sera :"
 
 [languages.fr.params.partnerCategories]

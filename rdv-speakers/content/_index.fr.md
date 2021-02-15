@@ -10,10 +10,10 @@ menu:
 
 <!-- ... -->
 
-{{% jumbo img="/images/backgrounds/chandeleur-2021.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
+{{% jumbo img="/images/backgrounds/mardi-gras-2021.jpg" imgLabel="Les Rendez-vous des Speakers" %}}
 
 
-## Mardi, 2 Février 2021
+## [Mardi, 16 Février 2021](/mardi-gras-2021)
 
 <!-- ... -->
 
@@ -36,6 +36,7 @@ menu:
 - [La Rentrée des Speakers](./rentree-2020/)
 - [Le Halloween des Speakers](./halloween-2020/)
 - [Le Noël des Speakers](./noel-2020/)
+- [La Chandeleur des Speakers](./chandeleur-2021/)
 
 
 {{% /home-info %}}
