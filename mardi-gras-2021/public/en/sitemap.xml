@@ -33,6 +33,10 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_design_system/</loc>
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/mardi-gras-2021/editorial_slant/</loc>
     <xhtml:link
                 rel="alternate"
@@ -176,14 +180,6 @@
                 hreflang="en"
                 href="https://rdv-speakers.fr/mardi-gras-2021/team/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.2_tous_les_chemins_menent_au_code/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_une_heure_pour_apprendre_stencil/</loc>
   </url>
   
 </urlset>

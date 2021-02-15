@@ -11,23 +11,13 @@
     
     
     <item>
-      <title>Tous les chemins mènent au code</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.2_tous_les_chemins_menent_au_code/</link>
+      <title>Design system, REX d’une aventure</title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_design_system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.2_tous_les_chemins_menent_au_code/</guid>
-      <description>Mardi 2 février 2021 21h00 Il n&amp;rsquo;y a pas une bonne ou une mauvaise manière de devenir développeur/développeuse (ou sysadmin, devops, techperson&amp;hellip;). Que ça soit avec un diplôme d&amp;rsquo;une grande école dans la poche ou un bootcamp, en passant par l&amp;rsquo;auto-formation et la bidouille devant un ordinateur, on peut devenir dev de façons très diverses, et toutes aussi valables. Et à toute âge !
-Dans cette table ronde, nous parlerons reconversion, nous discuterons comment des gens d&amp;rsquo;horizons très différents ont décidé un jour de faire de la tech leur métier, et comment ils ont structuré ces parcours, chacun unique.</description>
-    </item>
-    
-    <item>
-      <title>Une heure pour apprendre Stencil</title>
-      <link>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_une_heure_pour_apprendre_stencil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_une_heure_pour_apprendre_stencil/</guid>
-      <description>Mardi 2 février 2021 12h15 Qu&amp;rsquo;est-ce que c&amp;rsquo;est Stencil? Encore une autre bibliothèque de Web Components? Mais pourquoi les Web Components, ou Composants Web? Pourquoi ai-je besoin d&amp;rsquo;une autre chose que React / Vue / Angular / NewShinyFramework? Et même si j&amp;rsquo;avais besoin de ces Composants Web, pourquoi Stencil? 😠 Chaque fois que je présente quelqu&amp;rsquo;un à Stencil, je reçois la même réaction initiale.
-Ensuite, je commence à raconter l&amp;rsquo;histoire de Stencil et Ionic, et pourquoi les Composants Web ont du sens dans ce cas, comme dans beaucoup d&amp;rsquo;autres.</description>
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_design_system/</guid>
+      <description>Mardi 16 février 2021 Retour sur la co-construction d’un design system en milieu hostile au sein d’une DSI Dinosauresque 🦕🦖. Ou comment mettre en place un design system a facilité le développement d’applications centrées utilisateurs.
+🖐️ Diffusion: https://www.twitch.tv/rdvspeakers</description>
     </item>
     
   </channel>
