@@ -9,7 +9,7 @@ menu:
 ---
 {{% jumbo img="./images/backgrounds/mardi-gras-2021.jpg" imgLabel="Le Mardi gras des Speakers 2020" %}}
 
-## February 2<sup>nd</sup>, 2021
+## February 16<sup>th</sup>, 2021
 ### Online [https://www.twitch.tv/rdvspeakers](https://www.twitch.tv/rdvspeakers)
 
 {{% /jumbo %}}
