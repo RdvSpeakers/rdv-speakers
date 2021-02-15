@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/editorial-slant/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/fr/editorial-slant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/editorial-slant/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/team/aurelie_vache/</loc>
   </url>
   
