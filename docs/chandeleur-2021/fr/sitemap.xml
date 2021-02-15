@@ -45,6 +45,20 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/chandeleur-2021/fr/editorial_slant/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/chandeleur-2021/editorial_slant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/chandeleur-2021/fr/editorial_slant/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/chandeleur-2021/fr/sessions/</loc>
     <xhtml:link
                 rel="alternate"

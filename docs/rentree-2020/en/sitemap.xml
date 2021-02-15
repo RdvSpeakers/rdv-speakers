@@ -73,6 +73,20 @@
   </url>
   
   <url>
+    <loc>https://rdv-speakers.fr/rentree-2020/editorial_slant/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdv-speakers.fr/rentree-2020/fr/editorial_slant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdv-speakers.fr/rentree-2020/editorial_slant/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rdv-speakers.fr/rentree-2020/partners/soutien/elastic/</loc>
   </url>
   
