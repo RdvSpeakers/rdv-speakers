@@ -1,22 +1,16 @@
 ---
 key: horacio_gonzalez
-title: Horacio Gonzalez
 name: Horacio Gonzalez
 city: Brest, France
-subtitle: OVHcloud
 company: OVHcloud
 photoURL: ./images/team/horacio_gonzalez.jpg
 socials:
   - icon: twitter
     link: 'https://www.twitter.com/LostInBrittany'
-    name: Twitter
   - icon: linkedin
     link: 'https://www.linkedin.com/in/horaciogonzalez'
-    name: LinkedIn
   - icon: github
     link: 'https://github.com/LostInBrittany'
-    name: Github
-
 ---
 
 Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a plus d’une vingtaine d’années. Passionné d’informatique, dans laquelle il est tombé depuis tout petit, il a découvert le développement web en 1997 et depuis il n’a pas arrêté de bosser autour.

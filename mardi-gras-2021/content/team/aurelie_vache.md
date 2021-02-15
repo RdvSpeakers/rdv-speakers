@@ -1,9 +1,7 @@
 ---
 key: aurelie_vache
 name: Aurélie Vache
-title: Aurélie Vache
 company: Stack Labs
-subtitle: Stack Labs
 city: Toulouse, France
 photoURL: ./images/team/aurelie_vache.jpg
 socials:

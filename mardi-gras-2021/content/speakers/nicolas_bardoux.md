@@ -1,4 +1,5 @@
 ---
+speaker: true
 key: nicolas_bardoux
 name: Nicolas Bardoux
 feature: true

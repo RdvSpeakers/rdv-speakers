@@ -1,9 +1,7 @@
 ---
 key: gaelle_acas
-title: Gaëlle Acas
 name: Gaëlle Acas
 company: Talend
-subtitle: Talend
 city: Nantes, France
 photoURL: ./images/team/gaelle_acas.jpg
 socials:
