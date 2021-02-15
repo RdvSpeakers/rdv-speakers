@@ -1,3 +1,12 @@
+---
+title: Orientation éditoriale
+menu:
+  main:
+    weight: 50
+    
+draft: false
+---
+
 # Orientation éditoriale
 
 Historiquement la constitution du comité éditorial du rendez-vous des speakers s'est faite par affinités, aussi bien dans sa première constitution que par la suite lorsque nous avons intégré de nouvelles personnes. L'objectif initial étant de se retrouver entre amis pour construire les contenus et formats que nous aimerions voir et entendre et ensuite les proposer aux communautés de façon entièrement bénévole et gratuite. 
