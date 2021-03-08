@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Les Briques du Web</title>
+    <link>https://rdv-speakers.fr/les-briques-du-web/</link>
+    <description>Recent content in Accueil on Les Briques du Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://rdv-speakers.fr/les-briques-du-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/team/horacio_gonzalez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/team/horacio_gonzalez/</guid>
+      <description>Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a plus d’une vingtaine d’années. Passionné d’informatique, dans laquelle il est tombé depuis tout petit, il a découvert le développement web en 1997 et depuis il n’a pas arrêté de bosser autour.
+Après quelques années comme tech leader de la partie frontend de @warp10io chez Cityzen Data, Horacio a rejoint OVHcloud en janvier 2018 en tant que leader DevRel (Developer Relations).</description>
+    </item>
+    
+    <item>
+      <title>Bots.garden</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/support/bots-garden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/support/bots-garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/code-of-conduct/</guid>
+      <description>1. Purpose A primary goal of Le Mardi gras des Speakers is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). Le Mardi gras des Speakers prides itself on being an open, respectful, and inclusive community.</description>
+    </item>
+    
+    <item>
+      <title>Elastic</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/support/elastic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/support/elastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FinistDevs</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/communautes/finistdevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/communautes/finistdevs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDG Cloud Lyon</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/communautes/gdg-cloud-lyon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/communautes/gdg-cloud-lyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montpellier Tech Hub</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/communautes/montpellier-tech-hub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/communautes/montpellier-tech-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVHcloud</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/support/ovhcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/support/ovhcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RedHat</title>
+      <link>https://rdv-speakers.fr/les-briques-du-web/partners/support/redhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/les-briques-du-web/partners/support/redhat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

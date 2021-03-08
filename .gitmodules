@@ -10,3 +10,6 @@
 [submodule "mardi-gras-2021/themes/rdvspeakers-theme-hugo"]
 	path = mardi-gras-2021/themes/rdvspeakers-theme-hugo
 	url = git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git
+[submodule "les-briques-du-web/themes/rdvspeakers-theme-hugo"]
+	path = les-briques-du-web/themes/rdvspeakers-theme-hugo
+	url = git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git
