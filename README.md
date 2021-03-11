@@ -77,9 +77,12 @@ If building the sites of GitPod, please remeber:
 ## Notes on adding a new site (W.I.P.)
 
 
-### Adding the theme submodule
+To create a nw site for the RdvSpeakers family, the easiset way is to clone one of the current sites (if doing a periodical  event like LEs Briques du Web, please clone `les-briques-du-web`, else clone our latest even, `mardi-gras-2021`right now).
+
+After cloning, you need to initialize the git submodule for the theme.
 
 ```bash
+cp -r ./les-briques-du-web ./new_site
 cd new_site
 rm -fr themes/rdvspeakers-theme-hugo 
 git submodule add git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git themes/rdvspeakers-theme-hugo
