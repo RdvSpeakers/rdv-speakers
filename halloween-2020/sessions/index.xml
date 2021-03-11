@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Le Halloween des Speakers 2020</title>
+    <link>https://rdv-speakers.fr/halloween-2020/sessions/</link>
+    <description>Recent content in Sessions on Le Halloween des Speakers 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://rdv-speakers.fr/halloween-2020/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment on organise une conf virtuelle (sur un coup de tête)</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/3.1_organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/3.1_organizers/</guid>
+      <description>Mercredi 28 Octobre 2020 12h30 Dans cette année 2020 si particulière, les communautés techniques ont été forcés de s&amp;rsquo;adapter. Petit au petit, souvent dans la douleur, nous avons tous pris le tournant du virtuel. De Zoom, Meet et d&amp;rsquo;autres Teams, à YouTube ou Twitch, les formats et les experimentations se sont multipliés.
+Dans cette table ronde nous, nous parlerons de l&amp;rsquo;exemple que nous connaissons le mieux : le notre. Nous vos racconterons comme nous avons décidé, d&amp;rsquo;un coup de tête, de créer une petite conférence virtuelle, La Rentrée des Speakers, de comment à la suite on a voulu peremniser l&amp;rsquo;initiative avec la création des Rendez-vous des Speakers, dont le premier événement est ce Halloween des Speakers.</description>
+    </item>
+    
+    <item>
+      <title>Créer &amp; distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! 🙂</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/4.2_plugin-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/4.2_plugin-kubernetes/</guid>
+      <description>Jeudi 29 Octobre 2020 18h30 Kubernetes est assez complexe comme cela … mais savez vous qu’il est possible de rajouter des fonctionnalités à notre orchestrateur préféré grâce aux plugins et à un petit outil : Krew ?
+Nous verrons dans ce talk, qu’en quelques minutes il est possible de créer un plugin à Kubernetes permettant de rendre plus user-friendly nos pods (selon la thématique saisonnière ^^). Mais ce n’est pas tout !</description>
+    </item>
+    
+    <item>
+      <title>Du design au code, il n&#39;y a qu&#39;un pas-rseur</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/2.1_du_design_au_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/2.1_du_design_au_code/</guid>
+      <description>Mardi 27 Octobre 2020 12h30 Convertir automatiquement une maquette ou un design en une application web ou un design system est le rêve de tout designer et développeur. Dans cette présentation, nous allons explorer puis expliquer comment, à partir d&amp;rsquo;un design, générer du code pour une application Web en Angular, Vue, React, ou des composants en LitElement ou Web Components et plus encore. Venez également découvrir comment coder votre propore Compiler, Parser et Code Genegrator, le tout en JavaScript et dans votre navigateur.</description>
+    </item>
+    
+    <item>
+      <title>Introduction à Crystal</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/3.2_crystal-lang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/3.2_crystal-lang/</guid>
+      <description>Mercredi 28 Octobre 2020 18h30 Crystal est un langage généraliste inspiré de Ruby et qui cible des performances proches du C. Il est bien placé dans les étoiles sur GitHub entre Scala et Elixir et est accompagné d&amp;rsquo;une petite communauté bien productive.
+À travers le développement d’une petite application, découvrons Crystal ensemble ainsi que l’outillage qui l’entoure.
+Au programme: Hello le Haloween des speakers (comme un Hello World mais en différent), types, un soupçon d&amp;rsquo;orienté objet, compilateur, ligne de commande&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Table ronde - DevOps</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/2.2_round_table_devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/2.2_round_table_devops/</guid>
+      <description>Mardi 27 Octobre 2020 18h30 DevOps, DevSecOps, buzz pas buzz ? Métier ? Méthodo ? Mindset ? Sait on réellement ce que c’est ? Le met on réellement en place ? Qui freine ? Qui sponsorise ? … Et quel intérêt ?
+Live sur notre cannal YouTube : https://www.youtube.com/channel/UCnwt2UOOdU83KurAPuLcy6g</description>
+    </item>
+    
+    <item>
+      <title>Table ronde - Développeurs expatriés</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/1.1_french_developers_outside_france/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/1.1_french_developers_outside_france/</guid>
+      <description>Lundi 26 Octobre 2020 21h30 On a tous eu un moment dans lequel on s&amp;rsquo;est dit qu&amp;rsquo;on allait partir dans l&amp;rsquo;étranger, pour quelque temps ou pour la vie&amp;hellip; Pour la plupart parmi nous, cela est resté là. Mais certains ont fait le pas.
+Dans cette table ronde on réunit quelques un des ces développeurs expatriés, qui vont nous racconter leurs expériences, les bons côtés et les mauvais, la nostalgie de la maison et le bonheur de se sentir chez soi ailleurs, les problèmes linguistiques, les découvertes culinaires, les chocs culturels&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Table ronde - Frontend</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/4.1_frontend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/4.1_frontend/</guid>
+      <description>Jeudi 29 Octobre 2020 12h30 Ah, le front &amp;hellip; Avec 10 nouveaux frameworks par an et 75 nouvelles bibliothèques par mois, le front dev est un sujet en constant renouvellement.
+Pour en discuter, nous avons invité trois vétérans du front, Stéphanie, Wassim et Jean-François, avec qui nous parlerons des frameworks, des standards, du mobile, des navigateurs, et d&amp;rsquo;autres sujets autour du développement web.
+Live sur notre cannal YouTube : https://www.youtube.com/channel/UCnwt2UOOdU83KurAPuLcy6g</description>
+    </item>
+    
+    <item>
+      <title>Table ronde - Languages alternatives</title>
+      <link>https://rdv-speakers.fr/halloween-2020/sessions/3.3_alternative-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/halloween-2020/sessions/3.3_alternative-languages/</guid>
+      <description>Mercredi 28 Octobre 2020 19h15 Table ronde sulfureuse sur les langages alternatifs avec Xavier, Nicolas, Siegfried, François et Philippe avec une énorme inconnue levée par Xavier “mais Philippe c’est quoi un langage alternatif?”. Excellente question à laquelle nous répondrons (ou pas) ce soir.
+Live sur notre cannal YouTube : https://www.youtube.com/channel/UCnwt2UOOdU83KurAPuLcy6g</description>
+    </item>
+    
+  </channel>
+</rss>

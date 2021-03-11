@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on La Rentrée des Speakers 2020</title>
+    <link>https://rdv-speakers.fr/rentree-2020/sessions/</link>
+    <description>Recent content in Sessions on La Rentrée des Speakers 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://rdv-speakers.fr/rentree-2020/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Common mistakes&#34; en Go - et comment les résoudre
+</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/2.1_common_mistakes_in_go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/2.1_common_mistakes_in_go/</guid>
+      <description>Docker, Kubernetes, Terraform, Helm &amp;hellip; Ces outils vous disent peut être quelque chose, vous les utilisez peut être au quotidien, mais saviez vous qu&amp;rsquo;ils étaient fait en Go ? En effet, le langage Go est un langage qui a le vent en poupe depuis ces dernières années, utilisés pour faire des microservices, de la cross-compilation, par des entreprises exigeant des performances élevées et de la résilience.
+C&amp;rsquo;est un langage pratique, facile à prendre en main, typé et possédant un écosystème riche.</description>
+    </item>
+    
+    <item>
+      <title>Et si la technologie pouvait contribuer à préserver l’autonomie des personnes âgées dépendantes...</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/3.1_et_si_la_technologie_pouvait_contribuer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/3.1_et_si_la_technologie_pouvait_contribuer/</guid>
+      <description>Mariés depuis 40 ans, Monique et Robert formaient un couple comme tous les autres. Mais depuis quelques mois, leur quotidien est chamboulé.
+Monique a été diagnostiquée avec la maladie d’Alzheimer. Elle souffre de pertes de mémoire, de difficultés à s’orienter et à s’organiser au quotidien. Elle qui a toujours été dynamique et indépendante a beaucoup de mal à accepter cette situation et à garder le moral.
+Robert a ainsi endossé le rôle “d’aidant principal”.</description>
+    </item>
+    
+    <item>
+      <title>Functional Core, l’alternative FP à l’architecture hexagonale</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/1.3_functional_core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/1.3_functional_core/</guid>
+      <description>Il y a finalement assez peu de façons de protéger son code métier des intrusions des frameworks et autres stacks techniques.
+Après avoir été précurseurs et promoteurs de l’architecture hexagonale pendant toutes ces années, nous souhaitons ici vous montrer une de ses alternatives : le Functional Core (accompagné d’une Imperative Shell).
+Cette session de live-coding vous montrera à quoi ça ressemble, comment ça s’articule avec un domaine, quelle différence cela fait-il avec l’architecture hexagonale, et quand l’utiliser surtout.</description>
+    </item>
+    
+    <item>
+      <title>Hype Driven Development, Halte au feu, revenons à l&#39;essentiel</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/1.1_hype_driven_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/1.1_hype_driven_development/</guid>
+      <description>Qu&amp;rsquo;est-ce que le Hype Driven Development ?
+Quels sont les dangers et les dérives de cette approche qu&amp;rsquo;on retrouve de plus en plus souvent ?
+Ne perd t&amp;rsquo;on pas de vue l&amp;rsquo;essentiel dans notre métier ?</description>
+    </item>
+    
+    <item>
+      <title>Mistress of robots</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/2.3_mistress_of_robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/2.3_mistress_of_robots/</guid>
+      <description>Qui n’a jamais voulu construire ses propres robots ? Qui n’a jamais voulu diriger une armée de robots d’un seul geste de la main ?
+C’est ce que je vous propose de découvrir lors de cette présentation où je vous présenterai ma garde de robots que je dirigerai de la main via des cartes de programmation micro:bit, du bricolage, de la couture et du code.</description>
+    </item>
+    
+    <item>
+      <title>Ouvrir une porte avec OAuth 2</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/1.2_ouvrir_une_porte_avec_oauth_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/1.2_ouvrir_une_porte_avec_oauth_2/</guid>
+      <description>Partout sur le net, on voit une tendance très claire : moins de comptes utilisateur, du &amp;ldquo;single sign on&amp;rdquo; partout.
+Cette tendance a de nombreux avantages :
+ moins de mots de passe à retenir des méthodes d&amp;rsquo;authentification nouvelles comme webauthn une sécurité accrue (à condition d&amp;rsquo;utiliser les bons fournisseurs d&amp;rsquo;identités)  Pouvons-nous imaginer d&amp;rsquo;autres applications à OAuth 2 ? Est-ce nécessairement dédié au web, mobile et applications dektop ?</description>
+    </item>
+    
+    <item>
+      <title>Redis comme vous ne l&#39;avez jamais vu!</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/3.2_tug_on_redis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/3.2_tug_on_redis/</guid>
+      <description>Durant cette présentation, qui va s&amp;rsquo;appuyer sur des démonstrations Tug va vous faire découvrir des cas d&amp;rsquo;usages que vous n&amp;rsquo;auriez pas pensés possible avec Redis.
+Avec des micro-services, Tug va montrer comment utiliser Redis comme plateforme de gestions de messages/evenements, de moteur d&amp;rsquo;indexation et d&amp;rsquo;aggregation vous pouvez moderniser moderniser à moindre cout vos applications qui utilisent des bases de données relationnelles!
+Quelques sujets dévoilés pendant la Démonstration: &amp;ldquo;Redis Streams&amp;rdquo;, Modules, RediSearch, Debezium, Redis Gears&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot Revisited with KoFu and JaFu</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/2.2_spring_boot_revisited/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/2.2_spring_boot_revisited/</guid>
+      <description>The first angle of this talk is a comparison between Kotlin and Java 15 when used to build and use DSLs like KoFu and JaFu to configure Spring Boot from https://github.com/spring-projects-experimental/spring-fu.
+The second aspect covered is the key advantage offered by Spring infrastructure configured in a functional way, and how it could shape the future of the Spring portfolio: lower memory consumption, faster startup and smaller GraalVM-native image.
+We’ll also share our thoughts about the advantages of configuring Spring Boot explicitly with this approach: you are fully in control of what features you enable or not.</description>
+    </item>
+    
+    <item>
+      <title>Typage dynamique de l’objet courant</title>
+      <link>https://rdv-speakers.fr/rentree-2020/sessions/3.2_typage_dynamique_de_l_object_courant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/rentree-2020/sessions/3.2_typage_dynamique_de_l_object_courant/</guid>
+      <description>Des langages comme Rust et Swift permettent la modification des profils et du type des attributs par l’usage de self et de son type dynamique associé. Nous verrons ce qui se cache derrière ce concept et comment il est utilisable dans des langages comme Scala, Rust et Swift.</description>
+    </item>
+    
+  </channel>
+</rss>

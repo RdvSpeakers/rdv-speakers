@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Le Mardi-gras des Speakers</title>
+    <link>https://rdv-speakers.fr/mardi-gras-2021/sessions/</link>
+    <description>Recent content in Sessions on Le Mardi-gras des Speakers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://rdv-speakers.fr/mardi-gras-2021/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design system, REX d’une aventure</title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.2_design_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.2_design_system/</guid>
+      <description>Mardi 16 février 2021 20h30 Retour sur la co-construction d’un design system en milieu hostile au sein d’une DSI Dinosauresque 🦕🦖. Ou comment mettre en place un design system a facilité le développement d’applications centrées utilisateurs.
+🖐️ Diffusion: https://www.twitch.tv/rdvspeakers</description>
+    </item>
+    
+    <item>
+      <title>Petite introduction au Cosplay</title>
+      <link>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_petite_introduction_au_cosplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/mardi-gras-2021/sessions/1.1_petite_introduction_au_cosplay/</guid>
+      <description>Mardi 16 février 2021 12h15 Mais c’est quoi ces adultes qui se déguisent comme leurs héros de film, série, manga, comics ou jeux vidéos pour aller se balader dans des conventions ?
+Il y a 5 ans, j’ai fait un premier essai que j’ai adoré et depuis j’ai toujours un projet en cours.
+Je vous présenterai cette pratique qui associe énormément de compétences artistiques, artisanales et techniques lors de la création du costume.</description>
+    </item>
+    
+  </channel>
+</rss>

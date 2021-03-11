@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on La Chandeleur des Speakers</title>
+    <link>https://rdv-speakers.fr/chandeleur-2021/partners/</link>
+    <description>Recent content in Partners on La Chandeleur des Speakers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://rdv-speakers.fr/chandeleur-2021/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bots.garden</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/support/bots-garden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/support/bots-garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/support/elastic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/support/elastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FinistDevs</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/communautes/finistdevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/communautes/finistdevs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDG Cloud Lyon</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/communautes/gdg-cloud-lyon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/communautes/gdg-cloud-lyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montpellier Tech Hub</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/communautes/montpellier-tech-hub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/communautes/montpellier-tech-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVHcloud</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/support/ovhcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/support/ovhcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RedHat</title>
+      <link>https://rdv-speakers.fr/chandeleur-2021/partners/support/redhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdv-speakers.fr/chandeleur-2021/partners/support/redhat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
