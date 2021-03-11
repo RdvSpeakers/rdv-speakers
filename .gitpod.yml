@@ -1,3 +1,11 @@
+# file: .gitpod.yml
+
+image:
+  file: .gitpod.Dockerfile
+
 tasks:
-  - init: ./build.sh
-    command: ./build.sh
+  - command: './build.sh'
+
+ports:
+  - port: 1313
+    onOpen: open-preview
