@@ -63,16 +63,8 @@ If building the sites of GitPod, please remeber:
 
 1. Hugo should then notice your changes and rebuild the site automatically
 
-1. When you're happy with your modifications, and you want to publish the site, stop the server, go back 
-  to the main folder and run `build.sh`
 
-  ```bash
-  cd ..
-  ./build.sh
-  ```
-
-1. Now you can push and do your PR. When the PR will be online, the site will be updated
-
+1. When you're happy with the modifications, you can push and do your PR. When the PR will be merged, a GitHub Action will build and deploy the sites.
 
 ## Notes on adding a new site (W.I.P.)
 
@@ -87,3 +79,5 @@ cd new_site
 rm -fr themes/rdvspeakers-theme-hugo 
 git submodule add git@github.com:RdvSpeakers/rdvspeakers-theme-hugo.git themes/rdvspeakers-theme-hugo
 ```
+
+When ready to publish, don't  forget to add the site to the building script `build.sh`.
