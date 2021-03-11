@@ -28,11 +28,50 @@ Dans ce dépôt il y a plusieurs sites :
 - Un site pour chacune de nos émissions périodiques:
   - Les Briques du Web (`/les-briques-du-web/`)
 
-Chaque site est un projet Hugo, et le fichier `build.sh` à la racine du dépôt permet de construire tous les projets et les merger sur `/doc`, qui est le répertoire utilisé pour le GitHub pages.
+Les sites hébergés par https://rdv-speakers.fr/ sont servis par des GitHub pages
+associés à ce depôt. 
+
+Chaque site est un projet Hugo, et le fichier `build.sh` à la racine du dépôt 
+permet de construire tous les projets et les merger sur `/doc`, qui est le 
+répertoire de base utilisé pour les GitHub pages.
 
 
 
+## Utiliser avec GitPod
 
+La façon la plus simple de travailler avec les sites RdvSpeakers est de passer par GitPod.
+
+> Please notice than the theme is a GitHub submodule. Modifying it is a bit 
+> different and a more detailed doc will be needed...
+
+> Here you have the doc for making modifications on a site, another doc will
+> be added to create a new site
+
+If building the sites of GitPod, please remeber:
+
+1. Each one of the site is an independent Hugo project. 
+1. Go to the site you want to modify
+  
+  ```bash
+  cd les-briques-du-web
+  ```
+1. Run Hugo server with the right bindings for GitPod:
+
+  ```bash
+  hugo server -w --baseUrl $(gp url 1313) --appendPort=false
+  ```
+
+1. Hugo should then notice your changes and rebuild the site automatically
+
+1. When you're happy with your modifications, and you want to publish the site, stop the server, go back 
+  to the main folder and run `build.sh`
+
+  ```bash
+  cd ..
+  ./build.sh
+  ```
+
+1. Now you can push and do your PR. When the PR will be online, the site will be updated
 
 
 ## Notes on adding a new site (W.I.P.)
