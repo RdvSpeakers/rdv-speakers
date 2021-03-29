@@ -25,6 +25,7 @@ Dans ce dépôt il y a plusieurs sites :
   - Le Noël des Speakers 2020 (`/noel-2020/`)
   - La Chandeleur des Speakers 2021 (`/chandeleur-2021/`)
   - Le Mardi-gras des Speakers 2021 (`/mardi-gras-2021/`)
+  - La Pâques des Speakers 2021 (`/paques-2021/`)
 - Un site pour chacune de nos émissions périodiques:
   - Les Briques du Web (`/les-briques-du-web/`)
 
@@ -69,9 +70,9 @@ If building the sites of GitPod, please remeber:
 ## Notes on adding a new site (W.I.P.)
 
 
-To create a nw site for the RdvSpeakers family, the easiset way is to clone one of the current sites (if doing a periodical  event like LEs Briques du Web, please clone `les-briques-du-web`, else clone our latest even, `mardi-gras-2021`right now).
+To create a new site for the RdvSpeakers family, the easiset way is to copy one of the current sites (if doing a periodical  event like Les Briques du Web, please copy `les-briques-du-web`, else copy our latest event, `mardi-gras-2021`right now).
 
-After cloning, you need to initialize the git submodule for the theme.
+After copying, you need to initialize the git submodule for the theme.
 
 ```bash
 cp -r ./les-briques-du-web ./new_site
