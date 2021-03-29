@@ -13,6 +13,6 @@ draft: false
 
 Que serait une conférence sans présentations? 
 
-Nous sommes heureux et fiers de vous présenter les présentations pour l'édition de Le Mardi gras 2021 !
+Nous sommes heureux et fiers de vous présenter les présentations pour l'édition de La Pâques des Speakers 2021 ! 🐰🔔🥚
 
 {{% /hero %}}

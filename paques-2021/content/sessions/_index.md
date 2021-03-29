@@ -13,7 +13,7 @@ draft: false
 
 What would be a conference without talks? 
 
-We are happy and proud to present you the talks for the 2021 mardi-gras edition!
+We are happy and proud to present you the talks for the 2021 "La Pâques des Speakers" edition!
 
 {{% /hero %}}
 
