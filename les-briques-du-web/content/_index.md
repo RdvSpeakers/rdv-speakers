@@ -13,9 +13,12 @@ menu:
 {{% jumbo img="./images/backgrounds/les-briques-du-web.jpg" imgLabel="Les Briques du Web" %}}
 
 
-## Première: Mardi 16 Mars 2021
+## S01E03 : Mardi 13 Avril 2021
 ### [https://www.twitch.tv/rdvspeakers](https://www.twitch.tv/rdvspeakers)
 
+L'implémentation des nouvelles APIs dans les navigateurs
+
+<p class="small">avec François Beaufort</p>
 
 <!-- ... -->
 

@@ -80,6 +80,12 @@ body > footer {
     font-weight: bold;
 }
 
+
+.jumbo p.small {
+    font-size: 1.5em;
+}
+
+
 body>header nav .languages a.lang {
     height: 4em;
 }
